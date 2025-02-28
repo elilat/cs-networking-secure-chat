@@ -37,7 +37,7 @@ This project implements a secure, multi-client chat application using Python. It
 
 3. Clone the repository:
    ```sh
-   git clone https://github.com/ellisisaac/cs-networking-secure-chat.git
+   git clone https://github.com/elilat/cs-networking-secure-chat.git
    cd secure-chat-app
    ```
 
@@ -128,6 +128,6 @@ Special thanks to Dr. Haidar Harmanani of the Computer Science department at the
 
 ## Authors
 
-Ellis Isaac @ellisisaac
+Elias Isaac @elilat
 
 For more detailed information about the project's architecture and implementation, please refer to the DOCUMENTATION.md file.
